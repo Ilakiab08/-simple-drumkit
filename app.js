@@ -1,5 +1,5 @@
 // Get all the buttons with the "grid" class
-const buttons = document.querySelectorAll('#grid');
+const buttons = document.querySelectorAll('.grid');
 
 // Add a click event listener to each button
 buttons.forEach(button => {
